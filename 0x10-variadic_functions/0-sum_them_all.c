@@ -6,7 +6,7 @@
  * @n: The number of paramters passed to the function.
  * @...: A variable number of paramters to calculate the sum of.
  *
- * R == 0 - 0.
+ * Return: If n == 0 - 0.
  *         Otherwise - the sum of all parameters.
  *         7mama
  */
