@@ -3,7 +3,7 @@
 /**
  * hash_table_get - get value of a key in a hash table
  *
- * @ht: pointer to the hash table
+ * @ht: pointer 
  * @key: key of the node to update
  *
  * Return: string value on success, NULL on failure
